@@ -87,7 +87,6 @@ streamlit run app.py
 ## 📄 产品文档
 - [完整产品需求文档 PRD.md](sslocal://flow/file_open?url=.%2Fdocs%2FPRD.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
-
 ## 项目结构
 
 car-rating-rag-agent/
